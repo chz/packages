@@ -284,7 +284,7 @@ class ProfilerToolbar extends Component<any, ExpandableState> {
 							<span class="display:none md:display:inline-block margin:0__8px">|</span>
 							<br class="md:display:none" />
 							<a
-								href="https://stylify.dev"
+								href="https://stylifycss.com"
 								class="
 									color:$blue1 display:inline-block margin-top:8px text-decoration:none
 									hover:text-decoration:underline
